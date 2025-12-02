@@ -22,7 +22,7 @@
 Plugin:
 
 ```shell
-asdf plugin add jwt-cli https://github.com/dobesv/asdf-jwt-cli.git
+asdf plugin add jwt-cli https://github.com/dobesv/asdf-jwt-cli-plugin.git
 ```
 
 jwt-cli:
