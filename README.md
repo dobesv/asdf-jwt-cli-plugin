@@ -29,13 +29,13 @@ jwt-cli:
 
 ```shell
 # Show all installable versions
-asdf list-all jwt-cli
+asdf list all jwt-cli
 
 # Install specific version
 asdf install jwt-cli latest
 
 # Set a version globally (on your ~/.tool-versions file)
-asdf global jwt-cli latest
+asdf set -u jwt-cli latest
 
 # Now jwt-cli commands are available
 jwt
